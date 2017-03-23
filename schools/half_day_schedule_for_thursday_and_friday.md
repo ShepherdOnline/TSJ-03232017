@@ -2,7 +2,7 @@
 
 Here is the 1/2 day schedule for Thursday, March 23rd and Friday, March 24th.
 
-
+![](/assets/schedule.png)
 
 ---
 
